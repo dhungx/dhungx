@@ -1,3 +1,4 @@
+<h2 align="center">A passionate frontend developer from Viet Nam</h2>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dohungx.09) 
@@ -17,3 +18,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhungx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h3 align="left">Other:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
